@@ -1,0 +1,41 @@
+
+#legenda{
+    font-size:30px;
+    font-family: 'Bangers', cursive;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-right: auto;
+    width: 370px;
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    line-height: 30px;
+    color: white;
+    background-color: #000000;
+}
+#botao{
+    padding: 20px;
+    font-size: large;
+    font-family: 'Bangers', cursive;
+    border-radius: 25px;
+    text-align: center;
+
+}
+#botao:hover{
+    cursor: pointer;
+}
+section{
+    margin-top: 10vh;
+    text-align: center;
+}
+img{
+    min-height: 100px;
+    width: 400px;
+    max-height: 300px;
+    
+}
+h1{
+    font-family: 'Bangers', cursive;
+    font-size: 40px;
+
+}
